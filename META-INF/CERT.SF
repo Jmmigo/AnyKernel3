@@ -1,0 +1,49 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: y8jVMvWcMXoURIEbBUQu64mGEkg=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: Br6xNsbYLFIighT+FGsY/cB14YM=
+
+Name: anykernel.sh
+SHA1-Digest-Manifest: zMaV+gtejv2SuyzkAOi5eWx95JA=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: DOSzVGXLZFaz5tbhdPBk4pFnO0s=
+
+Name: ramdisk/overlay.d/init.fk.rc
+SHA1-Digest-Manifest: 4dq15X/tXI91G/kzSpZ3xBngAJw=
+
+Name: tools/busybox
+SHA1-Digest-Manifest: GKS4abR14RtI0SJQVe9uBgZQD/U=
+
+Name: ramdisk/overlay.d/sbin/init.special_power.sh
+SHA1-Digest-Manifest: +ru7X+NgN60DyOsKn08bnMqb/OM=
+
+Name: dtbs/sdm845-v2.1.dtb
+SHA1-Digest-Manifest: 4xP8DOM+/NP6OT9Kp2WcjCV/OX8=
+
+Name: tools/magiskpolicy
+SHA1-Digest-Manifest: AwiFfZs0VZxjiWnjjyYYOVCa3Q0=
+
+Name: tools/ak3-core.sh
+SHA1-Digest-Manifest: nRUVh4hR6ITSjLckfaZzlh3qWTE=
+
+Name: dtbs/sdm845-v2.dtb
+SHA1-Digest-Manifest: rcpYMxil7qpP8QEVaLOmEI1sDL8=
+
+Name: dtbs/sdm845.dtb
+SHA1-Digest-Manifest: ZoAKO58OQU4W926ondFEGlLOy8g=
+
+Name: tools/magiskboot
+SHA1-Digest-Manifest: Wkb+6sTopmsEswfn943KpDs9+dI=
+
+Name: LICENSE
+SHA1-Digest-Manifest: x1QVxgMoLZmK8HC2uNr0Tid42gM=
+
+Name: ramdisk/overlay.d/init.performance_profiles.rc
+SHA1-Digest-Manifest: qY9Cqj39PfXLjAvwWgIEn/sRrOg=
+
+Name: kernel/Image.gz
+SHA1-Digest-Manifest: awJ+/BoG0zR+3o4JbUWVPtzplCw=
+

@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: surH1Bs4hR30JclyYkFBB7d7164=
+
+Name: anykernel.sh
+SHA1-Digest: 16RfgMUC1X75NDvkrDW+rYxinlM=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 3rpEuqIq5Br78TZya4fHfEQgs3c=
+
+Name: ramdisk/overlay.d/init.fk.rc
+SHA1-Digest: Iqv/Dij5379RuJ33dbfm8GBkG8E=
+
+Name: tools/busybox
+SHA1-Digest: O8ZJ7t88uGrtiatbaz/G8inKIdc=
+
+Name: ramdisk/overlay.d/sbin/init.special_power.sh
+SHA1-Digest: 0K1eH/DfCHED9cRVW6yvrWlKfaE=
+
+Name: dtbs/sdm845-v2.1.dtb
+SHA1-Digest: RTEQKqG2kfByzrPvAog5UYvJ+eY=
+
+Name: tools/magiskpolicy
+SHA1-Digest: 4KCu1bVMqG8AU2N4zrWX/ilIA/k=
+
+Name: tools/ak3-core.sh
+SHA1-Digest: Ow1z0E8T761OcT9caweUGpRVIaU=
+
+Name: dtbs/sdm845-v2.dtb
+SHA1-Digest: 4RJk6cgWcpY4JAYw1+3cONTQkqM=
+
+Name: dtbs/sdm845.dtb
+SHA1-Digest: btBCgWTQO7CyUaWsLVlbBwSg1ng=
+
+Name: tools/magiskboot
+SHA1-Digest: Ps5BW7H5SrKfqqAI+XYosrDVSkc=
+
+Name: LICENSE
+SHA1-Digest: bLJUIyJxYeq+v2SYZjPN04Prs4I=
+
+Name: ramdisk/overlay.d/init.performance_profiles.rc
+SHA1-Digest: tfphql4B+hYHfu66kYVV3386TDs=
+
+Name: kernel/Image.gz
+SHA1-Digest: 1chWp1Qvynp7J4SPpNHhrUc4m+M=
+
